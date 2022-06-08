@@ -3,13 +3,13 @@ https://github.com/aemad19/udapeople-cicd.git
 https://app.circleci.com/pipelines/github/aemad19
 
 2. Public URL for your S3 Bucket (aka, your green candidate front-end) [URL02]:
-http://udapeople-fe3e5e0.s3-website-us-west-2.amazonaws.com
+http://udapeople-38d087a.s3-website-us-west-2.amazonaws.com
 
 3. Public URL for your CloudFront distribution (aka, your blue production front-end) [URL03]:
 dyxj1qetgob84.cloudfront.net	
 
 4. Public URLs to deployed application back-end in EC2 [URL04]:
-ec2-54-212-220-136.us-west-2.compute.amazonaws.com
+http://34.222.254.93:3030/api/status
 
 5. Public URL to your Prometheus Server [URL05]:
 http://ec2-54-213-48-188.us-west-2.compute.amazonaws.com:9090/targets?search=
